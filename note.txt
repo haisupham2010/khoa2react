@@ -1,0 +1,4 @@
+Tất cả chỉ viết trong file : App.js
+ở máy của tôi : chỉ cần chạy : npm install
+rồi sau đó chạy : npm start
+là có thể test được.
